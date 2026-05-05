@@ -121,9 +121,8 @@ IOP Science – Smart Irrigation Architecture
 🛠️ Future Enhancements
 
 Integration with mobile app notifications.
-
 Use of solar power for complete energy independence.
-
 Integration with machine learning models for predictive irrigation.
-
 Adding database and analytics dashboards for long-term farm insights.
+ALSO finding a which type of disease and solution for the crops. 
+
